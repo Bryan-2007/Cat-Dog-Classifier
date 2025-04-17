@@ -1,0 +1,1 @@
+This AI model is trained by Bryan on 16th April 2025 and it took me nearly 4 hours to finish training the model using python.
