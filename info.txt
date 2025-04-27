@@ -1,1 +1,1 @@
-This folder was created by Bryan on 17th April 2025. It contains a AI model and a implemented webapp(which uses the AI model) for cat vs dog classification.
+This contains a AI model and a implemented webapp(which uses the AI model) for cat vs dog classification.
